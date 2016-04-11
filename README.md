@@ -21,11 +21,11 @@ By [composer.json](https://getcomposer.org/)
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/snapshotpl/PHP-Error"
+            "url": "https://github.com/laytoneverson/ZfSnapPhpError"
         }
     ],
     "require": {
-        "snapshotpl/zf-snap-php-error": "1.*"
+        "snapshotpl/zf-snap-php-error": "dev-dev-conf"
     }
 }
 ```

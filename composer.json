@@ -17,15 +17,9 @@
             "homepage": "http://www.psd2html.pl/"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/snapshotpl/PHP-Error"
-        }
-    ],
     "require": {
         "php": ">=5.3.3",
-        "joseph-lenton/PHP-error": "dev-master",
+        "joseph-lenton/PHP-error": "@dev",
         "zendframework/zendframework": "2.*"
     },
     "autoload": {
