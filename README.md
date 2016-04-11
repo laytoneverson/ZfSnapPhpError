@@ -25,7 +25,7 @@ By [composer.json](https://getcomposer.org/)
         }
     ],
     "require": {
-        "snapshotpl/zf-snap-php-error": "dev-dev-conf"
+        "snapshotpl/zf-snap-php-debug-bar": "*"
     }
 }
 ```

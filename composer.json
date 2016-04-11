@@ -19,7 +19,6 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "joseph-lenton/PHP-error": "@dev",
         "zendframework/zendframework": "2.*"
     },
     "autoload": {
